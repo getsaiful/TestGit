@@ -1,4 +1,6 @@
  <?php
+
+ $name=  "saiful";
    require_once("top.php");
    require_once("admin/connection.php");
    if(!empty($_GET['c'])) {
