@@ -1,0 +1,116 @@
+<Info>
+  <Pages>
+    <Page Number="1" Width="383" Height="610">
+      <Images>
+        <Normal Path="images/page1.swf" FileSize="583" />
+        <Thumbnail Path="images/page1_thumbnail.jpg" FileSize="26" />
+        <Zoomed Path="images/page1.swf" FileSize="583" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="2" Width="1159" Height="1807">
+      <Images>
+        <Normal Path="images/page2.swf" FileSize="457" />
+        <Thumbnail Path="images/page2_thumbnail.jpg" FileSize="32" />
+        <Zoomed Path="images/page2.swf" FileSize="457" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="3" Width="367" Height="584">
+      <Images>
+        <Normal Path="images/page3.swf" FileSize="670" />
+        <Thumbnail Path="images/page3_thumbnail.jpg" FileSize="32" />
+        <Zoomed Path="images/page3.swf" FileSize="670" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="4" Width="372" Height="582">
+      <Images>
+        <Normal Path="images/page4.swf" FileSize="636" />
+        <Thumbnail Path="images/page4_thumbnail.jpg" FileSize="33" />
+        <Zoomed Path="images/page4.swf" FileSize="636" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="5" Width="372" Height="574">
+      <Images>
+        <Normal Path="images/page5.swf" FileSize="587" />
+        <Thumbnail Path="images/page5_thumbnail.jpg" FileSize="29" />
+        <Zoomed Path="images/page5.swf" FileSize="587" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="6" Width="375" Height="590">
+      <Images>
+        <Normal Path="images/page6.swf" FileSize="543" />
+        <Thumbnail Path="images/page6_thumbnail.jpg" FileSize="31" />
+        <Zoomed Path="images/page6.swf" FileSize="543" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="7" Width="373" Height="592">
+      <Images>
+        <Normal Path="images/page7.swf" FileSize="372" />
+        <Thumbnail Path="images/page7_thumbnail.jpg" FileSize="27" />
+        <Zoomed Path="images/page7.swf" FileSize="372" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="8" Width="375" Height="588">
+      <Images>
+        <Normal Path="images/page8.swf" FileSize="526" />
+        <Thumbnail Path="images/page8_thumbnail.jpg" FileSize="33" />
+        <Zoomed Path="images/page8.swf" FileSize="526" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="9" Width="379" Height="586">
+      <Images>
+        <Normal Path="images/page9.swf" FileSize="575" />
+        <Thumbnail Path="images/page9_thumbnail.jpg" FileSize="31" />
+        <Zoomed Path="images/page9.swf" FileSize="575" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="10" Width="379" Height="594">
+      <Images>
+        <Normal Path="images/page10.swf" FileSize="550" />
+        <Thumbnail Path="images/page10_thumbnail.jpg" FileSize="35" />
+        <Zoomed Path="images/page10.swf" FileSize="550" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="11" Width="373" Height="584">
+      <Images>
+        <Normal Path="images/page11.swf" FileSize="618" />
+        <Thumbnail Path="images/page11_thumbnail.jpg" FileSize="31" />
+        <Zoomed Path="images/page11.swf" FileSize="618" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="12" Width="375" Height="590">
+      <Images>
+        <Normal Path="images/page12.swf" FileSize="576" />
+        <Thumbnail Path="images/page12_thumbnail.jpg" FileSize="33" />
+        <Zoomed Path="images/page12.swf" FileSize="576" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="13" Width="369" Height="592">
+      <Images>
+        <Normal Path="images/page13.swf" FileSize="569" />
+        <Thumbnail Path="images/page13_thumbnail.jpg" FileSize="34" />
+        <Zoomed Path="images/page13.swf" FileSize="569" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="14" Width="385" Height="602">
+      <Images>
+        <Normal Path="images/page14.swf" FileSize="573" />
+        <Thumbnail Path="images/page14_thumbnail.jpg" FileSize="17" />
+        <Zoomed Path="images/page14.swf" FileSize="573" />
+      </Images>
+      <Buttons />
+    </Page>
+  </Pages>
+</Info>

@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ekushe boimela kiosk</title>
+<link href="css/style.css" type="text/css" rel="stylesheet">
+<link href="css/124.css" type="text/css" rel="stylesheet">
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+ <script src="wheelzoom.js"></script>
+
+</head>
+
+
+<script>
+$(document).ready(function(){
+
+$('#thumb1').click(function(){ 
+
+	 $("#banglaacedemy").css("display", "block");
+     $(".bottombox").css("display", "none");
+      $("#shorardi").css("display", "none");
+	wheelzoom(document.querySelector('img.zoom'));
+
+  });
+
+ $('#thumb2').click(function(){ 
+
+	 $("#shorardi").css("display", "block");
+      $(".bottombox").css("display", "none");
+      $("#banglaacedemy").css("display", "none");
+  wheelzoom(document.querySelector('img.zoom1'));
+  }); 
+
+
+ 
+ $('#closemap').click(function(){ 
+   
+	
+      $("#shorardi").css("display", "none");
+	  $(".bottombox").css("display", "block");
+	document.querySelector('img.zoom1').dispatchEvent(new CustomEvent('wheelzoom.destroy'));
+  }); 
+ $('#closemap2').click(function(){ 
+    
+	 $(".bottombox").css("display", "block");
+     $("#banglaacedemy").css("display", "none");
+	
+    document.querySelector('img.zoom').dispatchEvent(new CustomEvent('wheelzoom.destroy'));
+  }); 
+ });
+ // ]]>
+</script>
+
+<body>
+ <div class="container" style="height:600px;">
+
+           <div class="popup_content">
+		      <div class="bottombox" style="margin-left:25%;margin-top:6%;height:500px";> 
+              <table width="80%" border="0" align="center">
+              <tr> <!-- maps.php -->
+			   <td><a href="#" id="thumb1" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('bacademy','','image/Bangla-Academy++.png',0)"><img src="image/Bangla_Academy2.png" alt="map" width="290" height="370" id="bacademy" /></a></td>
+               <td><a href="#" id="thumb2" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('suddan','','image/sohrawardi.png',0)"><img src="image/sohrawardi.png" alt="map" width="290" height="370" id="suddan" /></a></td>
+               
+			 </tr>
+            </table> 
+		</div>
+		
+		<div style="width:100%;height:600px;display:none" id="banglaacedemy">
+		  <div class="expend" style="width:100%; height:100%; background:white;">
+                <img class="zoom" src="image/BanglaAcademy.jpg" alt="pic" height="1100" width="100%">		
+            </div>
+			   <a href="#" id="closemap2" style="position:fixed;
+	left:20px;
+	bottom:5px;
+	cursor:pointer;"> <img src="images/back.png" width="50" height="50"></a>
+		</div>
+		<div style="width:100%;height:600px;display:none" id="shorardi">
+		  <div class="expend" style="width:100%; height:100%; background:white;">
+                <img class="zoom1" src="image/SohrawardiUddan.jpg" alt="pic" height="900" width="100%">		
+            </div>
+		 	
+	     <a href="#" id="closemap" style="position:fixed;
+	left:20px;
+	bottom:5px;
+	cursor:pointer;"> <img src="images/back.png" width="50" height="50"></a>
+		</div>
+           
+   </div>					   
+                             
+
+ </div>
+  
+ 
+</body>
+</html>
+ 

@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+
+<!--
+body {
+
+	
+	
+}
+.wraper {
+	height: 780px;
+	width: 1024px;
+	border: 1px solid #B7B7B7;
+	position: relative;
+	top: auto;
+	background-color:#E3E3E3;
+	margin:auto;
+	
+}
+.content {
+	height: auto;
+	width: 1024px;
+	border: 1px solid #B7B7B7;
+	position: relative;
+	top: auto;
+	background-color:#D4BFAA;
+	margin:auto;
+}
+.top {
+background:url(../admin/topbar.png);
+	
+	float: left;
+	height: 125px;
+	width: 1024px;
+	position: relative;
+	left: auto;
+	top: auto;
+}
+.bottom {
+	background-color: #A2EEBA;
+	float: left;
+	height: 80px;
+	width: 1024px;
+	position: relative;
+	top: auto;
+}
+.middle {
+	vertical-align:middle;
+	background-color: #E2E2E2;
+	float: left;
+	height: auto;
+	width: 1024px;
+	position: relative;
+}
+.menu {
+	text-align:left;
+	padding:20px 10px 20px 10px;
+	background-color: #F1F1F1;
+	float: left;
+	width:165px;
+	position: relative;
+	border:1px solid #B6B6B6;
+}
+.main {
+	padding:20px 10px 20px 10px;
+	/*background-color: #2A3FFF;*/
+	float: right;
+	border:1px solid #CACACA;
+	
+	width:812px;
+	position: relative;
+	
+}
+.subMenu{
+	border-bottom:1px dotted #ccc;
+	padding:4px 4px 4px 4px;
+	color: #5c5c5c;
+	font-size:11px;
+	text-align:left;
+
+}
+.subMenu a {
+	text-decoration:none;
+	color:#757575;
+	
+}
+.fontclass {
+		font-family:sutonnyMJ;
+		color:#383838;
+		font-size:12px;
+}
+.paginate {
+font-family:Arial, Helvetica, sans-serif;
+	padding: 3px;
+	margin: 3px;
+}
+
+.paginate a {
+	padding:2px 5px 2px 5px;
+	margin:2px;
+	border:1px solid #999;
+	text-decoration:none;
+	color: #666;
+}
+.paginate a:hover, .paginate a:active {
+	border: 1px solid #999;
+	color: #000;
+}
+.paginate span.current {
+    margin: 2px;
+	padding: 2px 5px 2px 5px;
+		border: 1px solid #999;
+		
+		font-weight: bold;
+		background-color: #999;
+		color: #FFF;
+	}
+	.paginate span.disabled {
+		padding:2px 5px 2px 5px;
+		margin:2px;
+		border:1px solid #eee;
+		color:#DDD;
+	}
+	
+	li{
+		padding:4px;
+		margin-bottom:3px;
+		background-color:#FCC;
+		list-style:none;}
+		
+	ul{margin:6px;
+	padding:0px;}	
+
+-->

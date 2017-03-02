@@ -1,0 +1,46 @@
+#wrap {
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   width: 960px;
+   padding: 5px;
+   margin: 0 auto; 
+   background-color: #fff;
+   position: relative; }
+
+/* These styles create the dropdown menus. */
+#navbar {
+   color: #148ca1;
+   margin: 0;
+   padding: 0;
+   height: 1em; }
+#navbar li {
+   list-style: none;
+   float: left; }
+#navbar li a {
+   display: block;
+   padding: 3px 8px;
+   background-color:;
+  color: #148ca1;
+   text-decoration: none; }
+#navbar li ul {
+   display: none; 
+   width: 15em; /* Width to help Opera out */
+   background-color: #d1eaec;}
+#navbar li:hover ul, #navbar li.hover ul {
+   display: block;
+   font-size:11px;
+   position: absolute;
+   margin: 0;
+   padding: 0; }
+#navbar li:hover li, #navbar li.hover li {
+   float: none; }
+#navbar li:hover li a, #navbar li.hover li a {
+   background-color: #d1eaec;
+   border-bottom: 1px solid #fff;
+   color: #1c7e84; }
+#navbar li li a:hover {
+   background-color: #bfeaed; }
+   
+.st:link{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFF; text-decoration:none;}
+.st:hover{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFF; text-decoration:none;}
+.st:visited{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFF; text-decoration:none;}

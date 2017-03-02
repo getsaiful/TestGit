@@ -1,0 +1,59 @@
+Searching 1368 files for "ফেব্রুয়ারি প্রকাশিত বই"
+
+D:\Server\xampp5.6\htdocs\boimela\bookpage2.php:
+   84  			 
+   85            ?>  <span style='font-size:25px;'>
+   86:           <span style="font-size:30px; font-weight:bold;">বই মেলা ২০১১ এর <?php echo "<span style='font-size:39px;'>" . $bn->make_bangla_number($dm)  ."</span>". " " . $tit ; ?> ফেব্রুয়ারি প্রকাশিত বই  </span> <br><br>
+   87           <?php 
+   88            }
+
+D:\Server\xampp5.6\htdocs\boimela\bookpage2017.php:
+   85  			 
+   86            ?>  
+   87:           <span style="font-size:23px; font-weight:bold;font-family:'SolaimanLipiNormal';">বই মেলা ২০১৭ এর <?php echo "<span style='font-size:35px;'>" . $bn->make_bangla_number($dm)  ."</span>". " " . $tit ; ?> ফেব্রুয়ারি প্রকাশিত বই  </span> <br><br>
+   88           <?php 
+   89            }
+
+D:\Server\xampp5.6\htdocs\boimela\bookpage3.php:
+   85  			 
+   86            ?>  
+   87:           <span style="font-size:24px; font-weight:bold;font-family: 'SolaimanLipiNormal';">বই মেলা ২০১১ এর <?php echo "<span style='font-size:35px;'>" . $bn->make_bangla_number($dm)  ."</span>". " " . $tit ; ?> ফেব্রুয়ারি প্রকাশিত বই  </span> <br><br>
+   88           <?php 
+   89            }
+
+D:\Server\xampp5.6\htdocs\boimela\bookpage4.php:
+   86            
+   87            <span style='font-size:24px;'>
+   88:           <span style="font-size:24px; font-weight:bold;font-family: 'SolaimanLipiNormal';">বই মেলা ২০১২ এর <?php echo "<span style='font-size:35px;'>" . $bn->make_bangla_number($dm) ."</span>". " " . $tit ; ?> ফেব্রুয়ারি প্রকাশিত বই  </span> <br><br>
+   89           <?php 
+   90            }
+
+D:\Server\xampp5.6\htdocs\boimela\bookpage5.php:
+   85  			 
+   86            ?>  
+   87:           <span style="font-size:24px; font-weight:bold;font-family:'SolaimanLipiNormal';">বই মেলা ২০১৩ এর <?php echo "<span style='font-size:35px;'>" . $bn->make_bangla_number($dm)  ."</span>". " " . $tit ; ?> ফেব্রুয়ারি প্রকাশিত বই  </span> <br><br>
+   88           <?php 
+   89            }
+
+D:\Server\xampp5.6\htdocs\boimela\bookpage6.php:
+   85  			 
+   86            ?>  
+   87:           <span style="font-size:24px; font-weight:bold;font-family:'SolaimanLipiNormal';">বই মেলা ২০১৪ এর <?php echo "<span style='font-size:35px;'>" . $bn->make_bangla_number($dm)  ."</span>". " " . $tit ; ?> ফেব্রুয়ারি প্রকাশিত বই  </span> <br><br>
+   88           <?php 
+   89            }
+
+D:\Server\xampp5.6\htdocs\boimela\bookpage7.php:
+   85  			 
+   86            ?>  
+   87:           <span style="font-size:23px; font-weight:bold;font-family:'SolaimanLipiNormal';">বই মেলা ২০১৫ এর <?php echo "<span style='font-size:35px;'>" . $bn->make_bangla_number($dm)  ."</span>". " " . $tit ; ?> ফেব্রুয়ারি প্রকাশিত বই  </span> <br><br>
+   88           <?php 
+   89            }
+
+D:\Server\xampp5.6\htdocs\boimela\bookpage8.php:
+   85  			 
+   86            ?>  
+   87:           <span style="font-size:23px; font-weight:bold;font-family:'SolaimanLipiNormal';">বই মেলা ২০১৬ এর <?php echo "<span style='font-size:35px;'>" . $bn->make_bangla_number($dm)  ."</span>". " " . $tit ; ?> ফেব্রুয়ারি প্রকাশিত বই  </span> <br><br>
+   88           <?php 
+   89            }
+
+8 matches across 8 files
